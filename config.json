@@ -1,0 +1,9 @@
+{
+	"ip":"nolepeperyday.aternos.me",
+	"port": "15868",
+	"name": "Yui-Chan",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
